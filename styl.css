@@ -1,0 +1,161 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    margin: 0 auto;
+}
+
+.headder{
+    width: 1440px;
+    height: 720px;
+    background-color:#f3d7b7;
+}
+.nav{
+
+    width: 100%;
+    display: flex;
+   justify-content: space-between;
+    padding: 22px 0px;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 40px;
+    list-style: none;
+
+
+}
+
+.text1 p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    width: 374px;
+    padding-top: 74px;
+     margin-left: 47px;
+
+}
+
+.text1 h1{
+    margin-left: 47px;
+   margin-top: 100px;
+}
+
+.header-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-content_img{
+    position: relative;
+
+}
+
+.img2{
+    position: absolute;
+    right: 600px;
+}
+
+.img1{
+    position: relative;
+    
+    width: 660px;
+    height: 390px;
+    right: 54px;
+    top: 147px;
+}
+
+.header2{
+    width: 1445px;
+    height: 740px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.header-content-text p{
+    padding-top: 180px;
+    width: 646px;
+    padding-right: 54px;
+}
+
+.header-content-text h1{
+    padding-top: 100px;
+    padding-left: 200px;
+   
+}
+.header-content-text img{
+    margin-top: 50px;
+}
+
+.img11{
+    margin-top: 50px;
+}
+
+.img-content{
+    position: relative;
+}
+
+.img22{
+    position: relative;
+    left: 850px;
+    top: 89px;
+}
+
+.header3{
+    width: 1440px;
+    height: 510px;
+    background-color: #C99B67;
+}
+
+.textcontent{
+    color: aliceblue;
+    display: flex;
+
+}
+
+.textcontent p{
+    position: relative;
+    width: 640px;
+    height: 150px;
+    top: 255px;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    left: -330px;
+
+line-height: 30px;
+letter-spacing: 0px;
+
+    
+}
+
+.textcontent h1{
+    padding-top: 180px;
+    padding-left: 53px;
+}
+
+.nav2{
+     width: 1440px;
+    display: flex;
+   justify-content: space-between;
+    padding: 22px 0px;
+    background-color: #f3d7b7;
+}
+
+.nav2 ul{
+     display: flex;
+    justify-content: space-evenly;
+    gap: 40px;
+    list-style: none;
+
+}
+
